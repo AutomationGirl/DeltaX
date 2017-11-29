@@ -2,8 +2,8 @@
 Automation_DeltaX :
 
 I have worked on Ubuntu (linux os)
-So you will need to download chrome .exe 
-I am using Pychram IDE ,python,selenium,behave freamwork for writting test cases
+So you will need to download chrome.exe 
+I am using Pychram IDE ,python,selenium,behave Framework for writting test cases
 
 Need to Install:
 1.Install package behave 1.2.5
